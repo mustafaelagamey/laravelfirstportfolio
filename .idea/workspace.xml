@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4aaa454-fe1c-4354-ac05-4c6c7fa2f904" name="Default" comment="" />
+    <list default="true" id="f4aaa454-fe1c-4354-ac05-4c6c7fa2f904" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/Untitledklghlfndglfdnlnfdgnfld14967426503487.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/siteImage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test22.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test24.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test25.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test26.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test27.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test28.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test29.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/siteImages/test30.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -194,27 +228,27 @@
         <entry file="file://$PROJECT_DIR$/resources/views/search/find.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="370">
-              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ImageController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImageController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ImageController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="206" column="16" lean-forward="false" selection-start-line="206" selection-start-column="16" selection-end-line="206" selection-end-column="16" />
+            <state relative-caret-position="178">
+              <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DatabaseSeeder.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DatabaseSeeder.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="224">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -295,7 +329,6 @@
   </component>
   <component name="FrameworkCommandLineHistory">
     <commandsHistory>
-      <command text="a route:list" />
       <command text="a serve" />
       <command text="a migrate:refresh --seed " />
       <command text="a route:list" />
@@ -320,7 +353,11 @@
       <command text="a serve" />
       <command text="a make:controller SearchController --plain" />
       <command text="a serve" />
+      <command text="a migrate:refresh --seed " />
     </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
@@ -377,8 +414,8 @@
         <option value="$PROJECT_DIR$/app/Http/Controllers/SearchController.php" />
         <option value="$PROJECT_DIR$/app/GeneralModel.php" />
         <option value="$PROJECT_DIR$/resources/views/search/find.blade.php" />
-        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/ImageController.php" />
+        <option value="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
       </list>
     </option>
   </component>
@@ -495,6 +532,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -752,12 +790,12 @@
       <workItem from="1496569404920" duration="2887000" />
       <workItem from="1496588752598" duration="9721000" />
       <workItem from="1496652753819" duration="30985000" />
-      <workItem from="1496736415061" duration="6162000" />
+      <workItem from="1496736415061" duration="8900000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304668000" />
+    <option name="totallyTimeSpent" value="307406000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -778,7 +816,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33568075" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.33064517" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.50230414" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1169,15 +1207,7 @@
     <entry file="file://$PROJECT_DIR$/resources/views/search/find.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="370">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="73" selection-end-column="0" />
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1194,8 +1224,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ImageController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="206" column="16" lean-forward="false" selection-start-line="206" selection-start-column="16" selection-end-line="206" selection-end-column="16" />
+        <state relative-caret-position="178">
+          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>

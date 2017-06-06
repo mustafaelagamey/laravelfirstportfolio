@@ -18,11 +18,11 @@ class DatabaseSeeder extends Seeder
 
         function unzip($file , $destination=null){
 
-            $zip=zip_open(realpath(".")."/".$file);
+            $zip=zip_open(realpath(".").DIRECTORY_SEPARATOR.$file);
             if(!$zip) {return("Unable to proccess file '{$file}'");}
 
             $e='';
-
+            echo zip_open(realpath(".").DIRECTORY_SEPARATOR.$file);
             while($zip_entry=zip_read($zip)) {
                 $zdir=dirname(zip_entry_name($zip_entry));
                 $zname=zip_entry_name($zip_entry);
@@ -36,7 +36,7 @@ class DatabaseSeeder extends Seeder
                 var_dump($zdir);
                 if(!is_dir($zdir)) mkdirr($zdir,0777);
 
-                print "{$zdir} | {$zname} \n";
+//                print "{$zdir} | {$zname} \n";
 
                 $zip_fs=zip_entry_filesize($zip_entry);
                 if(empty($zip_fs)) continue;
@@ -67,7 +67,7 @@ class DatabaseSeeder extends Seeder
 
         }
 
-        unzip("images.zip" ,'siteImages');
+        unzip("public".DIRECTORY_SEPARATOR."images.zip" ,'public'.DIRECTORY_SEPARATOR.'siteImages');
 
 
 
